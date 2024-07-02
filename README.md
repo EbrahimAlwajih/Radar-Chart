@@ -1,6 +1,6 @@
 # Radar Diagram
 
-This repository contains the code for creating radar diagrams (also known as spider charts) to visualize the performance of various models based on multiple evaluation metrics. The radar charts are generated from a CSV file containing the models' metrics, and the resulting charts are saved as SVG files.
+This repository contains the code for creating radar diagrams to visualize the performance of various models based on multiple evaluation metrics. The radar charts are generated from a CSV file containing the models' metrics, and the resulting charts are saved as SVG files.
 
 ## Features
 
