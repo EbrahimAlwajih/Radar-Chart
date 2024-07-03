@@ -1,8 +1,8 @@
-# Radar Diagram
+# Radar Chart
 
-A radar diagram is a graphical representation used to display multivariate data in the form of a two-dimensional chart. It consists of a central point from which multiple axes radiate outwards, each representing a different variable. The data points for each variable are plotted on these axes and connected to form a polygon. Radar diagrams are commonly used to compare the performance, characteristics, or attributes of different items or entities, allowing for an intuitive visualization of strengths and weaknesses across multiple dimensions simultaneously. This type of diagram is particularly useful in areas such as performance analysis, project management, and strategic planning.
+A radar chart is a graphical representation used to display multivariate data in the form of a two-dimensional chart. It consists of a central point from which multiple axes radiate outwards, each representing a different variable. The data points for each variable are plotted on these axes and connected to form a polygon. Radar charts are commonly used to compare the performance, characteristics, or attributes of different items or entities, allowing for an intuitive visualization of strengths and weaknesses across multiple dimensions simultaneously. This type of chart is particularly useful in areas such as performance analysis, project management, and strategic planning.
 
-This repository contains the code for creating radar diagrams to visualize the performance of various models based on multiple evaluation metrics. The radar charts are generated from a CSV file containing the models' metrics, and the resulting charts are saved as SVG files.
+This repository contains the code for creating radar charts to visualize the performance of various models based on multiple evaluation metrics. The radar charts are generated from a CSV file containing the models' metrics, and the resulting charts are saved as SVG files.
 
 ## Features
 
@@ -36,8 +36,8 @@ pip install matplotlib pandas
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/EbrahimAlwajih/Radar-Diagram.git
-   cd Radar-Diagram
+   git clone https://github.com/EbrahimAlwajih/Radar-Chart.git
+   cd Radar-Chart
    ```
 
 2. **Prepare your CSV file:**
