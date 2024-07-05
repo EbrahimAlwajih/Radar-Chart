@@ -1,4 +1,4 @@
-# Radar Chart
+# Radar Chart plotting (Python)
 
 A radar chart is a graphical representation used to display multivariate data in the form of a two-dimensional chart. It consists of a central point from which multiple axes radiate outwards, each representing a different variable. The data points for each variable are plotted on these axes and connected to form a polygon. Radar charts are commonly used to compare the performance, characteristics, or attributes of different items or entities, allowing for an intuitive visualization of strengths and weaknesses across multiple dimensions simultaneously. This type of chart is particularly useful in areas such as performance analysis, project management, and strategic planning.
 
